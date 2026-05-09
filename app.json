@@ -38,6 +38,13 @@
             "backgroundColor": "#000000"
           }
         }
+      ],
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "允許 Ready App 將今日讀書卡片儲存到相簿。",
+          "savePhotosPermission": "允許 Ready App 將今日讀書卡片儲存到相簿。"
+        }
       ]
     ],
     "experiments": {
